@@ -6,5 +6,4 @@ Volunteers are developing an automated data pipeline to fetch and unzip these da
 
 | Task  | Description |
 | ------------- | ------------- |
-| task  | description  |
-| task  | description  |
+| Set Up Team  | Assemble a core team to work on the **IATI Data Snapshot Repository**.  |
