@@ -4,4 +4,4 @@ This core work area focuses on the database itself. Volunteers will use the day-
 
 | Task  | Description |
 | ------------- | ------------- |
-| Set Up Team  | Assemble a core team to work on the **IATI Data Snapshot Repository**.  |
+| Set Up Team  | Assemble a core team to work on the **graph database**.  |
